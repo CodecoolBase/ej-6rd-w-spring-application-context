@@ -1,0 +1,7 @@
+= Spring Application Context
+
+Sample repo to demonstrate the usage of _ClassPathXmlApplicationContext_ and _AnnotationConfigApplicationContext_ in Spring.
+
+== Running
+
+Create a run configuration in IntelliJ and run the _Application_ class and specify a ``config'' as a command-line argument.
