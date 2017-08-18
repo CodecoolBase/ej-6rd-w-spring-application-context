@@ -36,15 +36,5 @@ public class Application {
         }
         Printer printer = context.getBean(Printer.class);
         printer.print();
-
-        Set<Integer> a = new ConcurrentSkipListSet<>();
-    }
-
-    public static void asd(Printer p) {
-        System.out.println("start");
-        // get request
-        p.print();
-        // save db
-        System.out.println("end");
     }
 }
