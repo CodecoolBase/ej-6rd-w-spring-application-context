@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>hu.codecool</groupId>
-    <artifactId>spring-application-context</artifactId>
+    <artifactId>spring-quick-start</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
